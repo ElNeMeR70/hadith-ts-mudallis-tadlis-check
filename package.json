@@ -1,0 +1,11 @@
+{
+  "name": "hadith-ts-mudallis-tadlis-check",
+  "version": "1.0.0",
+  "description": "Mudallis An'anah & Explicit Sama' Transmission Formula Checker (فاحص التدليس وعنعنة المدلسين وصيغ الأداء والتحمل)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
